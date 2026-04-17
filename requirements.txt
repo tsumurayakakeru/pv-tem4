@@ -1,2 +1,6 @@
 streamlit
 plotly
+numpy
+math
+csv
+sys
